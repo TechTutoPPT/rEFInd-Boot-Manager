@@ -1,6 +1,6 @@
 # rEFInd-Boot-Manager
 
-[![](https://github.com/TechTutoPPT/rEFInd-Boot-Manager/blob/main/cover.PNG)](https://youtu.be/QqSFw5GN8xM)
+[![](https://github.com/TechTutoPPT/rEFInd-Boot-Manager/blob/main/cover.PNG)](https://youtu.be/RUNBfFD5F8s)
 
 上一影片中MacBook Air可以透過開機時按著option鍵便能自動搜尋儲存媒體中帶有UEFI啟動的引導, 
 這功能對於同一磁碟安裝了多個不同的作業系統情況下的切換相當方便, 但一般電腦沒有內置這功能,
